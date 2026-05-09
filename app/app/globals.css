@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --spice-red: #922724;
+  --spice-gold: #D4A373;
+}
+
+body {
+  scroll-behavior: smooth;
+}
